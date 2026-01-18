@@ -35,21 +35,6 @@
   </footer>
 </template>
 
-<script>
-export default {
-  name: "Footer",
-  data() {
-    return {
-      homeUrl: "https://www.sztcrs.com/",
-      blogUrl: "https://blog.sztcrs.com/",
-      githubUrl: "https://github.com/52op",
-      emailUrl: "mailto:admin@sztcrs.com"
-    };
-  }
-};
-</script>
-
-
 <style scoped>
 .footer {
   margin-top: 30px;
